@@ -1,3 +1,6 @@
+#Dungeons & Dragons
+#Cavern Studio
+
 ## Arena de Batalla.pdf
 
 Es necesario imprimir a escala "Tamaño Real" para que las proporciones de los cuadros sea impresa a escala (25.4 mm por lado).
