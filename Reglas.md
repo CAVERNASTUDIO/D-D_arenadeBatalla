@@ -1,6 +1,6 @@
 # Dungeons & Dragons | Caverna Studio
 
-## Rules
+## Reglas
 
 ### Arena de Batalla.pdf
 
