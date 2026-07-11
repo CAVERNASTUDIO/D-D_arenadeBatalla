@@ -1,5 +1,4 @@
-# Dungeons & Dragons
-# Cavern Studio
+# Dungeons & Dragons | Caverna Studio
 
 ## Arena de Batalla.pdf
 
