@@ -5,7 +5,7 @@ Es necesario imprimir a escala "Tamaño Real" para que las proporciones de los c
 La partida se desarrolla en un espacio cerrado para área de juego, donde los participantes pueden tener enfrentamientos 1 a 1 y apostar puntos de experiencia PX.
 Si es una partida de personajes iniciales cada uno tiene un número límite de PX para apostar acorde a su nivel de jugador, si se pierden todos los puntos PX se pierde la partida, puedes iniciar de nuevo en nivel 1 en el período temporal que los jugadores determinen o identifiquen al azar.
 
-===========================================================================================================================================================================================================================
+
 
 ## dadosDD.exe
 
