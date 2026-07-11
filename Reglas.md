@@ -1,6 +1,8 @@
 # Dungeons & Dragons | Caverna Studio
 
-## Arena de Batalla.pdf
+## Rules
+
+### Arena de Batalla.pdf
 
 Es necesario imprimir a escala "Tamaño Real" para que las proporciones de los cuadros sea impresa a escala (25.4 mm por lado).
 
@@ -9,7 +11,7 @@ Si es una partida de personajes iniciales cada uno tiene un número límite de P
 
 
 
-## dadosDD.exe
+### dadosDD.exe
 
 Interface de consola para Windows x64 o x86, lanza una cantidad de dados a partir de 1, los suma o selecciona el mayor o menor de un conjunto de dados lanzados, el número de caras abarca desde 3 a 100, además, se agrega un lanzamiento tipo moneda para decisiones al azar.
 Todos los movimientos se registran dentro de un documento de texto plano  .erk. 
