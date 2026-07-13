@@ -1,4 +1,5 @@
 Arena de Batalla.pdf, Copyright 2026, Erik Alejandro García Aparicio.
+
 dadosDD.exe x64, x86, Copyright 2026, Erik Alejandro García Aparicio.
 
 Open Game License v 1.0a Copyright 2000, Wizards of the Coast, LLC.  
