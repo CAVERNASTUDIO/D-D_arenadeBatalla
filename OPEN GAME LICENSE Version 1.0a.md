@@ -1,9 +1,11 @@
-#D-D_arenadeBatalla
+# D-D_arenadeBatalla
 ----------------------------------------
 
-Documents PC game Doungeons n Dragons by Mr. Erik Alejandro García Aparicio. 
+Documents PC game **_Dungeons & Dragons_** by *Mr. Erik Alejandro García Aparicio*. 
 
 Email: [ErikGarcíaII@outlook.com](mailto:erikgarcíaii@outlook.com)
+
+-----------------------------------
 
 arenadeBatalla_CS.pdf, Copyright 2026, Erik Alejandro García Aparicio.
 
