@@ -1,4 +1,11 @@
-Arena de Batalla.pdf, Copyright 2026, Erik Alejandro García Aparicio.
+#D-D_arenadeBatalla
+----------------------------------------
+
+Documents PC game Doungeons n Dragons by Mr. Erik Alejandro García Aparicio. 
+
+Email: [ErikGarcíaII@outlook.com](mailto:erikgarcíaii@outlook.com)
+
+arenadeBatalla_CS.pdf, Copyright 2026, Erik Alejandro García Aparicio.
 
 dadosDD.exe, Copyright 2026, Erik Alejandro García Aparicio.
 
