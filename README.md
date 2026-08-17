@@ -11,3 +11,4 @@ cd [rute/ruta]
 ```bash
 ./dadosDD
 ```
+if the document .erk is not viewer try view in the hidden files on the folder of the application | Si el documento .erk no es visible busca en los archivos ocultos de la carpeta de la aplicación.
