@@ -1,7 +1,7 @@
 # D-D_arenadeBatalla
 ----------------------------------------
 
-Documents PC game **_Dungeons & Dragons_** by *Mr. Erik Alejandro García Aparicio*. 
+Documents game **_Dungeons & Dragons_** by *Mr. Erik Alejandro García Aparicio*. 
 
 Email: [ErikGarcíaII@outlook.com](mailto:erikgarcíaii@outlook.com)
 
