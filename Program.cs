@@ -21,7 +21,7 @@ while(lanzamientoDados==true){
     Console.Clear();
 Console.WriteLine("Dungeons & Dragons ROLLS | Caverna Studio");
 Console.WriteLine("============================================");
-    Console.WriteLine("\nLanguaje / Idioma:\n1. Español\n2. Ingles\n\n");
+    Console.WriteLine("\nLanguage / Idioma:\n1. Español\n2. Ingles\n\n");
     idioma=Console.ReadLine();
 
     int idiomaNumerico = int.Parse(idioma);
