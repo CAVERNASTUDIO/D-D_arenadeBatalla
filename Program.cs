@@ -28,7 +28,7 @@ Console.WriteLine("============================================");
 
     if (idiomaNumerico>2||idiomaNumerico<0){
 
-        Console.WriteLine("Valor no valido, intenta nuevamente");
+        Console.WriteLine("Valor no válido, intenta nuevamente");
         Console.WriteLine("Value not found, try again.");
         Console.ReadLine();
         lanzamientoDados=true;
@@ -36,7 +36,7 @@ Console.WriteLine("============================================");
         catch
         {
 
-        Console.WriteLine("Valor no valido, intenta nuevamente");
+        Console.WriteLine("Valor no válido, intenta nuevamente");
         Console.WriteLine("Value not found, try again.");
         Console.ReadLine();
         lanzamientoDados=true;
@@ -204,7 +204,7 @@ void dado()
         }
         else
         {
-           if (idioma=="1"){Console.WriteLine("Valor no valido, se repetira el lanzamiento");}
+           if (idioma=="1"){Console.WriteLine("Valor no válido, se repetira el lanzamiento");}
            else{Console.WriteLine("Not Valid value, roll repit");}
             Console.ReadLine();
             lanzamientoDados=true;
@@ -281,7 +281,7 @@ documento();
 
                 }
 else{
-    if (idioma=="1"){Console.WriteLine("Valor no valido, intenta nuevamente");}
+    if (idioma=="1"){Console.WriteLine("Valor no válido, intenta nuevamente");}
     else{Console.WriteLine("No valid value, try again.");}
     Console.ReadLine();
     lanzamientoDados= true;}
@@ -296,7 +296,7 @@ else if (opcion == "e")
     }
 else
     {
-        if (idioma=="1"){Console.WriteLine("Valor no valido ingresa un valor correcto");}
+        if (idioma=="1"){Console.WriteLine("Valor no válido ingresa un valor correcto");}
         else{Console.WriteLine("No valid value, try a correct value.");}
         Console.ReadLine();
     }
