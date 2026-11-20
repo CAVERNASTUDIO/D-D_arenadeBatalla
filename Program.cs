@@ -7,11 +7,10 @@ string valorC="";
 int[] a = new int[lanzamientos];
 Random rand = new Random();
 bool lanzamientoDados = true,suma=true;
-string archivo = @$".\D&Drolllatter.erk";
+string archivo = @$".\D&Drollletter{DateTime.Now.ToString("yyyyMMdd")}.erk";
 File.AppendAllText(archivo, $"\n\nDungeons & Dragons\nCavern Studio\nCopyright (c) - 2026 Erik Alejandro García Aparicio\n============================================\n{DateTime.Now.ToString("gg yyyy/MM/dd - HH:mm")}\n============================================\n\nMovements: \nhour - countmovenments - Rolld# - #ofrolls - value \n");
 interfaceIdioma();
 inteface();
-
 
 void interfaceIdioma(){
 while(lanzamientoDados==true){
@@ -301,4 +300,3 @@ else
         Console.ReadLine();
     }
 }while(lanzamientoDados == false);}
-
